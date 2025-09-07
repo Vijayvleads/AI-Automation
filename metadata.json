@@ -1,0 +1,5 @@
+{
+  "name": "AI Social Content Automator",
+  "description": "A dashboard to manage and monitor a self-hosted automation that curates AI news, generates social media content with a consistent brand voice, and visualizes the posting schedule.",
+  "requestFramePermissions": []
+}
